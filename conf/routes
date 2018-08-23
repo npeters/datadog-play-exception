@@ -1,0 +1,2 @@
+GET      /ok                                                controllers.ApplicationController.ok()
+GET      /ko                                                controllers.ApplicationController.ko()
